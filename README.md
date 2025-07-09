@@ -1,7 +1,7 @@
-# 🏃‍♀️ Player Re-Identification – Single Feed (ML Internship Assignment)
+# 🏃‍♀️ Player Re-Identification – Single Feed (AI Internship Assignment)
 
 ## 👩‍💻 Developed by: Himali Paneru  
-**Submission for:** ML Internship
+**Submission for:** AI Internship
 **Task Chosen:** Option 2 – Re-Identification in a Single Feed
 
 ---
