@@ -21,3 +21,8 @@ To track and re-identify players in a single video feed (`15sec_input_720p.mp4`)
 ### 1. Install Dependencies
 ```bash
 pip install ultralytics opencv-python numpy
+
+> **Note:** The YOLOv11 model file (`yolov11.pt`) is not included in this repository due to GitHub's 100MB file size limit.  
+> You can download the model from the following link and place it in the same directory as `main.py`:
+
+🔗 [Download yolov11.pt](https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view)
